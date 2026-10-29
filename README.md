@@ -11,6 +11,7 @@
   <a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8.2+"></a>
   <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
   <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="Lisensi MIT"></a>
 </p>
 
 ---
@@ -204,4 +205,11 @@ Kolom yang dibaca: `kode_barang`, `nama_barang`, `kategori`, `satuan`, dan seter
 
 ## Lisensi
 
-Tentukan lisensi proyek Anda di sini (misalnya MIT).
+Kode sumber **Kasir Kita** dirilis di bawah [Lisensi MIT](LICENSE).
+Hak cipta &copy; 2026 [rohmanzm11](https://github.com/rohmanzm11).
+
+Anda bebas menggunakan, menyalin, memodifikasi, dan mendistribusikan proyek ini, termasuk untuk keperluan komersial, selama pemberitahuan hak cipta dan teks lisensi tetap disertakan.
+
+### Lisensi Pihak Ketiga
+
+Proyek ini memakai pustaka open source yang masing-masing memiliki lisensi sendiri. Laravel, Filament, dan Livewire berlisensi MIT. Untuk paket lainnya (Filament Shield, Spatie Permission, Laravel Excel, Laravel DomPDF), periksa lisensi masing-masing lewat `composer licenses`. Perlu diketahui bahwa library Dompdf yang dipakai oleh Laravel DomPDF berlisensi LGPL.
